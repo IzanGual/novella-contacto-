@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Novella Hotel Restaurante
+ORG:Novella Hotel Restaurante
+TEL;TYPE=WORK,VOICE:+34964431094
+EMAIL;TYPE=WORK:reservas@hotelnovella.es
+URL:https://www.hotelnovella.es/
+ADR;TYPE=WORK:;;Calle de Culla 1;Benassal;Castellón;12160;España
+X-SOCIALPROFILE;type=instagram:https://www.instagram.com/novella_hotelrestaurante/
+X-SOCIALPROFILE;type=facebook:https://www.facebook.com/hotelnovella/
+END:VCARD
